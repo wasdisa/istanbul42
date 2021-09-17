@@ -1,0 +1,6 @@
+Credentials cache: API:DEF56E3E-5B07-4973-BF23-9F25D2D54C67
+        Principal: zozurgan@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  5 10:53:40 2021  Sep  5 20:53:40 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Sep  5 10:53:42 2021  Sep  5 20:53:40 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR

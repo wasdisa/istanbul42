@@ -1,2 +1,2 @@
 # istanbul42
-istanbul 42 de başıma gelenler
+burası istanbul 42 havuz eğitimim boyunca başıma gelnleri anlattığım bir yazılım günlüğüdür
